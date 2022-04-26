@@ -1,9 +1,9 @@
-READ ME BY KEVIN ROAN;
+Readme By Kevin Roan;
 this file contains,
 1)dwm 
 2)dwmblocks
 3)dmenu
-'
+
 
 every folder contains a  readme file,
 also in the case of dwm blocks and dwm there is some comments on the configuration files,
