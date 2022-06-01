@@ -12,4 +12,4 @@ you may end up on unbootable system.
 
 make sure to backup the files of previous dwm (if installed before)
 
-have a nice day.. :)
+Enjoy dwm.. :)
