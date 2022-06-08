@@ -3,7 +3,7 @@
 
 /* appearance */
 static const unsigned int borderpx  = 1;        /* border pixel of windows */
-static const unsigned int gappx     = 10;        /* gaps between windows */
+static const unsigned int gappx     = 12;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const unsigned int systraypinning = 0;   /* 0: sloppy systray follows selected monitor, >0: pin systray to monitor X */
 static const unsigned int systrayonleft = 0;   	/* 0: systray in the right corner, >0: systray on left of status text */
@@ -12,8 +12,8 @@ static const int systraypinningfailfirst = 1;   /* 1: if pinning fails, display 
 static const int showsystray        = 1;     /* 0 means no systray */
 static const int showbar            = 1;     /* 0 means no bar */
 static const int topbar             = 1;     /* 0 means bottom bar */
-static const char *fonts[]          = { "FiraCode Nerd Font:size=10", "Noto Color Emoji:size=9:antialias=true:autohint=true"};
-static const char dmenufont[]       = "FiraCode Nerd Font:size=10";
+static const char *fonts[]          = { "Ubuntu Mono:size=12", "Noto Color Emoji:size=9:antialias=true:autohint=true"};
+static const char dmenufont[]       = "Ubuntu Mono Font:size=12";
 
 //predefined stuff just incase 
 static const char col_gray1[]       = "#282c34"; 
@@ -66,7 +66,7 @@ static const char *colors[][3]      = {
 };
 
 /* tagging */
-static const char *tags[] = { "1", "2", "3", "4", "5", "6" };
+static const char *tags[] = { "Fx1", "Mx2", "Zx3", "Nx4", "Tx5", "Lx6" };
 
 static const Rule rules[] = {
 	/* xprop(1):
